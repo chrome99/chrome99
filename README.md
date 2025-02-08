@@ -29,8 +29,8 @@ $ whoami
 $ sudo cat /etc/experience.conf
 
 > 🏗️ Led full-cycle project development: system design, CI/CD, client interactions.
-> 📸 Built an advanced image editing web app.
-> 🔄 Developed a data pipeline: web scraping, cleaning, LLM-based generation, SEO deployment.
+> 📸 Built an advanced image editing web app, serving 50+ stores.
+> 🔄 Developed a data pipeline: web scraping, cleaning, LLM-based generation, SEO campaign with 20k+ indexed pages.
 > 🎮 Started coding with video game development as a teenager.
 
 $ chmod +x skills.sh && ./skills.sh
@@ -43,8 +43,9 @@ $ chmod +x skills.sh && ./skills.sh
 $ tree ~/projects/stuff/fun
 
 > 📁 Cool Projects
-> ├── 🎮 [My First XNA Game](https://github.com/chrome99/My-First-Xna-Game)
-> ├── 🐶 [Pet Match](https://github.com/chrome99/pet-match-fe)
+> ├── 🦒 Okapi - Interpreter built with Go
+> ├── 🎮 My First XNA Game - C# RPG video game
+> ├── 🐶 Pet Match - React Fullstack web app
 
 $ cat /etc/current_interests.conf
 

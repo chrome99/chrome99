@@ -28,17 +28,17 @@ $ whoami
 
 $ sudo cat /etc/experience.conf
 
-> 🏗️ Led full-cycle project development: system design, CI/CD, client interactions.
-> 📸 Built an advanced image editing web app, serving 50+ stores.
+> 🏗️ Led full-cycle project: from system design to deployment and client interactions.
+> 📸 Built an advanced image editing web app, serving 60+ stores.
 > 🔄 Developed a data pipeline: web scraping, cleaning, LLM-based generation, SEO campaign with 20k+ indexed pages.
 > 🎮 Started coding with video game development as a teenager.
 
 $ chmod +x skills.sh && ./skills.sh
 
 > 🖥️  Frontend: Next.js, Astro, TypeScript, React, Tailwind CSS
-> 🛠️  Backend: Node.js, PostgreSQL / SQLite, Prisma
-> 📦  DevOps: Docker, Kubernetes, Helm
-> 🔍  Data: Web Scraping, LLM-based Processing, SEO Optimization
+> 🛠️  Backend: Node.js, PostgreSQL, SQLite, MongoDB, Prisma
+> 📦  DevOps: Bash, Docker, Github Actions, Kubernetes
+> 🔍  Data: Web Scraping, LLM-based Processing, SEO
 
 $ tree ~/projects/stuff/fun
 
